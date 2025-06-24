@@ -11,3 +11,8 @@ Pandoc is a universal document converter that supports various output formats, m
 - 📘 Manuals and guides
 
 ---
+
+```bash
+sudo apt install pandoc fonts-ebgaramond fonts-firacode texlive-xetex
+
+```
