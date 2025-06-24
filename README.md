@@ -1,6 +1,3 @@
-% Document Title
-% Author Name
-% June 2025
 
 # Introduction
 
